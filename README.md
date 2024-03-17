@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lamia</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
-<iframe src="https://giphy.com/embed/SpopD7IQN2gK3qN4jS" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://i.gifer.com/6M8G.gif" align="right" alt="Coding">
 - 🔭 I’m currently working on **a project that is about content summary using NLP techniques**
 
 - 🌱 I’m currently learning **Django and going deeply into web infrastructures**

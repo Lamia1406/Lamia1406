@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lamia</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
-<img src="https://i.gifer.com/6M8G.gif" align="right" alt="Coding">
+<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" align="right" alt="Coding">
 - 🔭 I’m currently working on **a project that is about content summary using NLP techniques**
 
 - 🌱 I’m currently learning **Django and going deeply into web infrastructures**
